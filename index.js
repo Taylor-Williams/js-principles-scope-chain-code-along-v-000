@@ -10,6 +10,6 @@ function setBestCustomer(){
 function overWriteBestCustomer(name){
   bestCustomer = `${name}`;
 }
-function reassignLeastFavorite(name){
+function changeLeastFavoriteCustomerLeastFavorite(name){
   leastFavoriteCustomer = name;
 }
