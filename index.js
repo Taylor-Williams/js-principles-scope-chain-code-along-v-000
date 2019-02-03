@@ -13,5 +13,3 @@ function overWriteBestCustomer(name){
 function changeLeastFavoriteCustomer(name){
   leastFavoriteCustomer = name;
 }
-let favoriteCustomer = 'him';
-let favoriteCustomer = 'me';
